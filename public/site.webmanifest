@@ -1,0 +1,9 @@
+{
+  "name": "Nascimento Moura Advogados Associados",
+  "short_name": "Nascimento Moura",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf6eb",
+  "theme_color": "#141f2b"
+}

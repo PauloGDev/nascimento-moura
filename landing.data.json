@@ -1,0 +1,188 @@
+{
+  "project": {
+    "name": "Nascimento Moura - Revisão de Contratos Bancários",
+    "displayName": "Nascimento Moura Advogados Associados",
+    "conversionAction": "WhatsApp",
+    "slug": "nascimento-moura-direito-bancario",
+    "sourceTemplate": "Template 1",
+    "sourceVersion": "1.2.0"
+  },
+  "professional": {
+    "name": "Dr. Lucas Felipe do Nascimento Moura",
+    "officeName": "Nascimento Moura Advogados Associados",
+    "oab": "OAB/MT 22.107",
+    "area": "Direito Bancário",
+    "city": "Sorriso/MT",
+    "biography": "O escritório Nascimento Moura Advogados Associados atua há 12 anos na análise e revisão de contratos bancários para pessoas físicas e empresas. O trabalho começa pela leitura técnica do contrato e pela explicação clara dos cenários possíveis, para que cada cliente decida com segurança e sem promessas fáceis.",
+    "experience": "12 anos de atuação",
+    "volume": "Mais de 100 contratos analisados"
+  },
+  "contact": {
+    "whatsapp": "5566999636280",
+    "whatsappMessage": "Olá! Vim pelo site e quero entender meu contrato bancário.",
+    "email": "contato@nascimentomouraadv.com.br",
+    "instagram": "https://www.instagram.com/adv.lucasmoura/",
+    "instagramLabel": "@adv.lucasmoura"
+  },
+  "location": {
+    "city": "Sorriso/MT",
+    "regions": "Atendimento on-line em todo o Brasil e presencial em Sorriso/MT, mediante agendamento.",
+    "address": "Rua Mato Grosso, 2372, Centro, Sorriso/MT",
+    "hours": "Atendimento mediante agendamento",
+    "mapsQuery": "Rua Mato Grosso, 2372, Centro, Sorriso MT"
+  },
+  "theme": {
+    "primary": "#141f2b",
+    "secondary": "#fbf6eb",
+    "style": "Editorial, sóbrio e acolhedor"
+  },
+  "hero": {
+    "eyebrow": "Direito bancário para pessoas e empresas",
+    "title": "Já pagou várias parcelas e sente que a dívida com o banco quase não diminuiu?",
+    "description": "Analisamos contratos bancários e explicamos, em linguagem simples, o que está sendo cobrado, o que merece atenção e quais caminhos podem existir para o seu caso.",
+    "cta": "Quero entender meu contrato",
+    "note": "Atendimento pelo WhatsApp. A conversa inicial não obriga você a entrar com uma ação."
+  },
+  "audience": "Pessoas físicas e empresas com dúvidas sobre contratos, financiamentos e dívidas bancárias",
+  "contractTypes": [
+    "CCB de pessoa física e jurídica",
+    "Empréstimo pessoal não consignado",
+    "Capital de giro",
+    "Financiamento de veículos e equipamentos",
+    "Crédito rural",
+    "Antecipação de recebíveis",
+    "Renegociações e confissões de dívida",
+    "Defesa em busca e apreensão",
+    "Negativação indevida"
+  ],
+  "painPoints": [
+    "Você paga as parcelas em dia, mas o saldo devedor parece não sair do lugar.",
+    "Renegociou com o banco e, no fim, a dívida ficou maior do que era.",
+    "Olha o contrato e não entende de onde vieram tantos juros, tarifas e encargos.",
+    "Tem receio de perder um bem que está ligado à dívida.",
+    "A dívida bancária está apertando o caixa da sua empresa e travando seus planos.",
+    "Já tentou conversar com o banco, mas não recebeu uma explicação clara."
+  ],
+  "services": [
+    {
+      "title": "Financiamento de veículos",
+      "description": "Análise de contrato, evolução das parcelas e medidas relacionadas a cobranças e busca e apreensão."
+    },
+    {
+      "title": "Crédito pessoal e renegociações",
+      "description": "Leitura técnica de empréstimos, CCBs, confissões de dívida e renegociações sucessivas."
+    },
+    {
+      "title": "Crédito empresarial",
+      "description": "Análise de capital de giro, antecipação de recebíveis e operações que impactam o caixa do negócio."
+    },
+    {
+      "title": "Crédito rural",
+      "description": "Avaliação de contratos com recursos livres ou vinculados ao Manual de Crédito Rural."
+    },
+    {
+      "title": "Financiamento imobiliário",
+      "description": "Análise de operações com taxa livre e crédito garantido por imóvel, conforme as particularidades do contrato."
+    }
+  ],
+  "process": [
+    {
+      "title": "Conte sua situação",
+      "description": "Chame no WhatsApp e explique, de forma breve, o que está acontecendo."
+    },
+    {
+      "title": "Envie os documentos",
+      "description": "Contrato, extratos ou comprovantes das parcelas, documento pessoal e comprovante de endereço."
+    },
+    {
+      "title": "Receba a análise inicial",
+      "description": "O contrato e os cálculos são avaliados de forma individual, com retorno inicial em até 24 horas."
+    },
+    {
+      "title": "Participe do diagnóstico",
+      "description": "Em uma conversa on-line, explicamos o que foi encontrado, os riscos, os custos e as possibilidades."
+    },
+    {
+      "title": "Decida com segurança",
+      "description": "Você escolhe se deseja seguir e recebe orientação sobre os próximos passos do seu caso."
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Clareza",
+      "description": "Entenda o que está sendo cobrado e como os valores do contrato foram formados."
+    },
+    {
+      "title": "Segurança para decidir",
+      "description": "Conheça possibilidades, riscos e custos antes de assumir qualquer compromisso."
+    },
+    {
+      "title": "Acompanhamento técnico",
+      "description": "Conte com orientação jurídica durante as etapas necessárias para o seu caso."
+    },
+    {
+      "title": "Atendimento acessível",
+      "description": "Atendimento on-line para todo o Brasil e presencial em Sorriso/MT."
+    }
+  ],
+  "privacy": [
+    "Documentos usados exclusivamente para análise e condução do caso.",
+    "Acesso às informações restrito aos profissionais responsáveis.",
+    "Formalização por assinatura digital e comunicação por canais seguros.",
+    "Reuniões gravadas somente com informação prévia ao cliente."
+  ],
+  "objections": [
+    {
+      "title": "“Mas eu assinei o contrato.”",
+      "description": "Assinar não impede você de entender o que está sendo cobrado. A análise mostra o que é regular e o que merece atenção."
+    },
+    {
+      "title": "“E se não valer a pena seguir?”",
+      "description": "Antes de qualquer decisão, você conhece os riscos e as possibilidades. Se a análise não indicar um caminho adequado, isso será explicado com transparência."
+    },
+    {
+      "title": "“Será que existe algo errado?”",
+      "description": "Somente a análise individual do contrato pode responder. Por isso, não há promessa de resultado antes da leitura dos documentos e dos cálculos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Preciso ir até o escritório?",
+      "answer": "Não. O atendimento pode ser realizado on-line em todo o Brasil. Se preferir, também há atendimento presencial em Sorriso/MT, mediante agendamento."
+    },
+    {
+      "question": "Quais documentos preciso enviar?",
+      "answer": "Em geral, contrato bancário, extratos ou comprovantes das parcelas, documento pessoal com foto e comprovante de endereço. Se faltar algum documento, a equipe orienta como obtê-lo."
+    },
+    {
+      "question": "Quanto tempo leva a análise inicial?",
+      "answer": "O retorno inicial é feito em até 24 horas após o recebimento das informações e documentos necessários. A complexidade de cada caso pode exigir etapas adicionais."
+    },
+    {
+      "question": "Quanto custa?",
+      "answer": "As condições são apresentadas no atendimento, com transparência e antes de qualquer compromisso."
+    },
+    {
+      "question": "Conversar com o escritório significa entrar com um processo?",
+      "answer": "Não. Primeiro você entende a sua situação. A decisão de seguir ou não é sempre sua."
+    },
+    {
+      "question": "O escritório atende empresas?",
+      "answer": "Sim. São analisadas operações como capital de giro, linhas de crédito empresarial, aquisição de insumos, bens e maquinários, entre outras."
+    }
+  ],
+  "approval": {
+    "responsible": "A definir pelo escritório",
+    "approved": false
+  },
+  "pending": [
+    "Confirmar sufixo da OAB: 22.107 ou 22.107/O.",
+    "Validar o título de especialista em Direito Bancário.",
+    "Confirmar o número oficial do WhatsApp.",
+    "Definir a headline final: dor, curiosidade ou teste das duas versões.",
+    "Enviar foto profissional do Dr. Lucas e/ou da equipe.",
+    "Enviar a Política de Sigilo e Proteção de Dados para inclusão no site.",
+    "Confirmar domínio oficial, CEP e dados para indexação.",
+    "Realizar revisão jurídica final do conteúdo antes da publicação."
+  ]
+}
